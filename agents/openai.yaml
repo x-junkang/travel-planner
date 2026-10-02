@@ -1,0 +1,4 @@
+interface:
+  display_name: "旅行规划助手"
+  short_description: "结合实时交通与酒店查询，生成含每日行程、预算和预订入口的可落地旅行攻略"
+  default_prompt: "请使用 $travel-planner，根据我的目的地和出行时间补齐需求，查询交通与酒店，并生成可落地的旅行攻略。"
